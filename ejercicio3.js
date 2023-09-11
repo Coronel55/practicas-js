@@ -1,4 +1,3 @@
-
 var hoy = new Date();
 var hora=hoy.getHours();
 var minuto=hoy.getMinutes();
