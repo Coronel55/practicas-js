@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "test":"jest",
+    "test2": "ejer1"
+  },
+  "dependencies": {
+    "jest": "^29.6.4"
+  }
+}
